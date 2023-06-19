@@ -1,7 +1,7 @@
 # Node-Arduino
 
 Este proyecto manda datos a través de un puerto COM
-hacia el servidor de Node y pueden ser utilizados en front end
+hacia el servidor de Node y pueden ser utilizados en front end con el uso de sockets 
 
 ## Instalación
 
