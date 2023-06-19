@@ -24,19 +24,12 @@ hacia el servidor de Node y pueden ser utilizados en front end
 
 5. Podrás ver los datos de temperatura recibidos desde el puerto serial en tiempo real en tu navegador.
 
-## Contribución
 
-Si deseas contribuir a este proyecto, puedes seguir estos pasos:
 
-1. Haz un *fork* de este repositorio.
 
-2. Crea una rama para tu nueva funcionalidad (`git checkout -b nueva-funcionalidad`).
 
-3. Realiza los cambios necesarios y haz *commit* de los mismos (`git commit -am 'Agrega nueva funcionalidad'`).
 
-4. Envía tus cambios a la rama de tu repositorio remoto (`git push origin nueva-funcionalidad`).
 
-5. Abre un nuevo *pull request* y describe tus cambios.
 
 
 
